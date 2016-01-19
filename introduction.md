@@ -6,3 +6,4 @@ Skills List
 * Git
 * JavaScript
 * Ruby
+* JAVA
