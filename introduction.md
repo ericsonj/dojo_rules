@@ -7,3 +7,4 @@ Skills List
 * JavaScript
 * Ruby
 * JAVA
+* C/C++
